@@ -32,15 +32,12 @@ Supported arguments:
 ## Personal Statement
 I have been learning software development since secondary vocational school, and I have participated in many web development competitions in Shanghai from 2014 to 2015 As well as the website development project in the Shanghai Division of the World Skills Competition China Selection Competition, and I also participated in the third prize of the National Skills Competition (Advanced Professional Group) Network Security Project from 2018 to 2019, so my learning ability is very strong. The main language I am good at is PHP and Python, and as long as the frameworks I use are ThinkPHP, Laravel, and Django, it means that I can learn other frameworks in a very short time because the logic of all programming languages ​​is interlinked. The languages used in the website development projects participating in the Shanghai Starlight Project Competition and the World Skills Competition are PHP, HTML5, CSS3, JavaScript, and jQuery, Bootstrap, so although I rarely use nodejs, because nodejs is also developed using JavaScript coding, so it is very easy for me to get started. And I built my own WordPress, mariadb, and bitwarden applications through docker, and I will use some simple SQL statements because most of the frameworks already include database management plugins, so I prefer to use the results that others have already done. I believe that your decision to hire me as your employee will not be regretted. At the same time, although I do not live in your city, I am willing to move for this, because I believe a good work item is enough to entice me to do it.
 
-
 ## Education
-
 ### **University of Sunderland** `2021.09 -`
 
 ```
 Sunderland, UK
 ```
-
 - MSc Data Science
 
 ### **Shanghai Technical Institute of Electronics & Information** `2017.09 - 2020.07`
@@ -48,7 +45,6 @@ Sunderland, UK
 ```
 Shanghai, CN
 ```
-
 - Information Security & Management
 
 ### **Shanghai Information Technology College** (Secondary School) `2013.09 - 2017.6`
@@ -56,10 +52,7 @@ Shanghai, CN
 ```
 Shanghai, CN
 ```
-
 - Software Development & Service
-
----
 
 ## Experience
 ### **Shanghai Jiujing Culture Dissemination Co., Ltd.** `2019.04 - 2020.01`
@@ -70,10 +63,7 @@ _PHP & Front-End(HTML5, CSS3 & JavaScript) Developer_<br>
 
 _System Operation & Maintenance_<br>
 
----
-
 ## Honors & Awards
-
 ### **Shanghai Technical Institute of Electronics & Information (STIEI)**
 
   - The **3rd** prize of the National Vocational College Skills Competition (NVCSC, China) Information Security Management and Evaluation Competition
@@ -144,9 +134,9 @@ _System Operation & Maintenance_<br>
     - username: admin
     - password: admin
 
+---
 
 ## Appendix
-
 ### acme.sh
 ![my certificate in acme.sh](./assets/Screenshot 2023-01-04 at 23.37.55.png "acme.sh screenshot")
 
