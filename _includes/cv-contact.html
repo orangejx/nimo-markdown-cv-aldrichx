@@ -12,7 +12,14 @@
 
     {% if page.phone %}
     <i class="fi-telephone" style="margin-left:1em"></i>
-    {{ page.phone }}
+    <a href="{{ page.phone.url }}" style="margin-left:0.5em">{{ page.phone.text }}</a>
+    {% endif %}
+
+    {% if page.gpg_key %}
+    <i class="fi-key" style="margin-left:1em"></i>
+    <a href="{{ page.gpg_key.url }}" style="margin-left:0.5em">{{ page.gpg_key.text }}</a>
+    <a style="margin-left:0.5em; color:#ccc;">|</a>
+    <a href="{{ page.gpg_key.url_online }}">{{ page.gpg_key.text_online }}</a>
     {% endif %}
 
 </div>
