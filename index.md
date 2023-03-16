@@ -102,9 +102,9 @@ _System Operation & Maintenance_<br>
     - SQL Inject
     - GPG key
       - [aldrichx@wlms.dev (E97F 0499 8EBF AFC4 AFE3 8B8E 259E 2222 2222 2222)](https://keyserver.ubuntu.com/pks/lookup?search=0x259e222222222222&fingerprint=on&op=index)
-      - [sign commit with gpg key](#sign-commit-with-gpg-key)
+      - [\[1\]sign commit with gpg key](#1sign-commit-with-gpg-key)
   - acme.sh
-    - [photo](#acmesh)
+    - [\[2\]photo](#2acmesh)
   - Markdown
     - Basic Markdown syntax
     - In fact, this [CV](https://about.wlms.dev "about.wlms.dev") & [ora.pub](https://www.ora.pub "www.ora.pub") is also done in Markdown.
@@ -125,7 +125,7 @@ _System Operation & Maintenance_<br>
   - Cloudflare CDN Nodes Check
     - [https://cf-auto.0jn.net/en.html](https://cf-auto.0jn.net/en.html)
     - [Github Repository](https://github.com/orangejx/cf-auto-web.git)
-    - [Project Screenshot](#cloudflare-cdn-node-check)
+    - [\[3\]Project Screenshot](#3cloudflare-cdn-node-check)
   - A consumables management system, demo.
     - [https://xjx.ora.pub](https://xjx.ora.pub)
     - username: admin
@@ -134,13 +134,13 @@ _System Operation & Maintenance_<br>
 ---
 
 ## Appendix
-### sign commit with gpg key
+### [1].sign commit with gpg key
 ![sign commit with gpg key](./assets/Screenshot 2023-03-16 at 18.34.18.png "sign commit with gpg key screenshot")
 
-### acme.sh
+### [2].acme.sh
 ![my certificate in acme.sh](./assets/Screenshot 2023-01-04 at 23.37.55.png "acme.sh screenshot")
 
-### Cloudflare CDN Node Check
+### [3].Cloudflare CDN Node Check
 ![Cloudflare CDN Node Check Screenshot](./assets/Screenshot 2023-01-05 at 00.03.12.png "Cloudflare CDN Node Check Screenshot")
 
 <!-- ### Footer
