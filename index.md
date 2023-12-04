@@ -8,11 +8,17 @@ phone:
   url: tel:+447430051983
   text: (+44)7430051983
 homepage:
-  url: http://www.ora.pub
-  text: www.ora.pub
+  url: https://www.ora.pub
+  text: ora.pub
+github:
+  url: https://github.com/orangejx
+  text: github.com/orangejx
+linkedin:
+  url: https://www.linkedin.com/in/wlms/
+  text: linkedin.com/in/wlms
 gpg_key:
   url: https://files.wlms.dev/Key/GPG/Aldrich%20J.%20Xing%20%2822222222%29%20%E2%80%93%20Public.asc
-  text: Aldrich J. Xing (22222222) – Public.asc
+  text: Aldrich J. Xing (0x259e222222222222) – Public.asc
   text_online: Online
   url_online: https://www.ora.pub/about/0x259e222222222222/
 ---
@@ -136,9 +142,10 @@ _System Operation & Maintenance_<br>
     - username: admin
     - password: admin
   - A MBTI Test System 
-    - [https://mbti.wlms.dev](mbti.wlms.dev)
-    - username/phone number: 13800138000, or any start with `13|15|16|17|18|19` 11 length phone number
-    - password: 123456, any `6` length number
+    - [https://mbti.wlms.dev](https://mbti.wlms.dev)
+    - username/phone number: 13800138000, or any start with **13/15/16/17/18/19** and 11-digit mobile phone number.
+    - password/code: 123456, any **6** digit number
+
 ---
 
 ## Appendix

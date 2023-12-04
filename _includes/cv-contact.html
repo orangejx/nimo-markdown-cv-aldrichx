@@ -17,6 +17,18 @@
 
     <br />
 
+    {% if page.github %}
+    <i class="fi-social-github" style="margin-left:1em"></i>
+    <a href="{{ page.github.url }}" style="margin-left:0.5em">{{ page.github.text }}</a>
+    {% endif %}
+
+    {% if page.linkedin %}
+    <i class="fi-social-linkedin" style="margin-left:1em"></i>
+    <a href="{{ page.linkedin.url }}" style="margin-left:0.5em">{{ page.linkedin.text }}</a>
+    {% endif %}
+
+    <br />
+
     {% if page.gpg_key %}
     <i class="fi-key" style="margin-left:1em"></i>
     <a href="{{ page.gpg_key.url }}" style="margin-left:0.5em">{{ page.gpg_key.text }}</a>
