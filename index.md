@@ -101,6 +101,25 @@ _PHP & Front-End(HTML5, CSS3 & JavaScript) Developer_<br>
 
 _System Operation & Maintenance_<br>
 
+## Contributed
+- alist-org/alist
+    - add driver of google drive by SA.
+    - [\[4\]PR(Pull Request) Record](#4alist-google-drive-driver)
+
+## Project
+- Cloudflare CDN Nodes Check
+    - [https://cf-auto.0jn.net/en.html](https://cf-auto.0jn.net/en.html)
+    - [Github Repository](https://github.com/orangejx/cf-auto-web.git)
+    - [\[3\]Project Screenshot](#3cloudflare-cdn-node-check)
+- A consumables management system, demo.
+    - [https://xjx.ora.pub](https://xjx.ora.pub)
+    - username: admin
+    - password: admin
+- A MBTI Test System
+    - [https://mbti.wlms.dev](https://mbti.wlms.dev)
+    - username/phone number: 13800138000, or any start with **13/15/16/17/18/19** and 11-digit mobile phone number.
+    - password/code: 123456, any **6** digit number
+
 ## Honors & Awards
 ### **Shanghai Technical Institute of Electronics & Information (STIEI)**
   - The **3rd** prize of the National Vocational College Skills Competition (NVCSC, China) Information Security Management and Evaluation Competition
@@ -158,25 +177,6 @@ _System Operation & Maintenance_<br>
       - Docker Registry (The Docker Registry 2.0 implementation for storing and distributing Docker images)
         - [https://www.minya-kongka.eu.org](https://www.minya-kongka.eu.org/v2/_catalog)
         - [https://minya-kongka.eu.org](https://minya-kongka.eu.org/v2/_catalog)
-
-## Contributed 
-  - alist-org/alist
-    - add driver of google drive by SA.
-    - [\[4\]PR(Pull Request) Record](#4alist-google-drive-driver)
-
-## Project
-  - Cloudflare CDN Nodes Check
-    - [https://cf-auto.0jn.net/en.html](https://cf-auto.0jn.net/en.html)
-    - [Github Repository](https://github.com/orangejx/cf-auto-web.git)
-    - [\[3\]Project Screenshot](#3cloudflare-cdn-node-check)
-  - A consumables management system, demo.
-    - [https://xjx.ora.pub](https://xjx.ora.pub)
-    - username: admin
-    - password: admin
-  - A MBTI Test System 
-    - [https://mbti.wlms.dev](https://mbti.wlms.dev)
-    - username/phone number: 13800138000, or any start with **13/15/16/17/18/19** and 11-digit mobile phone number.
-    - password/code: 123456, any **6** digit number
 
 ---
 
