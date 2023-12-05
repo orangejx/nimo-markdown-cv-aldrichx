@@ -61,6 +61,38 @@ Shanghai, CN
 - Software Development & Service
 
 ## Experience
+### **J.P. Morgan Software Engineering Virtual Experience on Forage** `Dec 2023`
+
+_Set up a local dev environment by downloading the necessary files, tools and dependencies._<br>
+_Fixed broken files in the repository to make web application output correctly._<br>
+_Used JPMorgan Chase’s open source library called Perspective to generate a live graph that displays a data feed in a clear and visually appealing way for traders to monitor._<br>
+
+### **University of Sunderland** `Sep 2023`
+
+_Data Science Fundamentals_<br>
+_Data Science Product Development_<br>
+_Machine Learning And Data Analytics_<br>
+_Technology Management For Organisations_<br>
+
+### **Shanghai Technical Institute of Electronics & Information** `Jun 2020`
+
+_Fundamentals of Computer Application_<br>
+_Windows System Management & Operation_<br>
+_Computer System Configuration_<br>
+_Computer Network Technology_<br>
+_Wireless Network & WAN Access_<br>
+_Routing & Switching Technology_<br>
+_Fundamentals of Information Security_<br>
+_Network Security Device & Network Device Configuration_<br>
+_Programming Technology of C#_<br>
+_Windows System Security Training_<br>
+_Linux Service / Security Management & Training_<br>
+_Database Security Management_<br>
+_Hacking & Defence_<br>
+_CCNA Safety Comprehensive Training_<br>
+_Web Application Development_<br>
+_Web Service Security_<br>
+
 ### **Shanghai Jiujing Culture Dissemination Co., Ltd.** `Apr 2019 ~ Jan 2020`
 
 _PHP & Front-End(HTML5, CSS3 & JavaScript) Developer_<br>
