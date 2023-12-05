@@ -102,8 +102,8 @@ _PHP & Front-End(HTML5, CSS3 & JavaScript) Developer_<br>
 _System Operation & Maintenance_<br>
 
 ## Contributed
-- alist-org/alist
-    - add driver of google drive by SA.
+- [alist-org/alist](https://github.com/alist-org/alist)
+    - [add driver of google drive by SA](https://github.com/alist-org/alist/commit/c19166be1cb389b1005da77f20d79672e418b32b).
     - [\[4\]PR(Pull Request) Record](#4alist-google-drive-driver)
 
 ## Project
